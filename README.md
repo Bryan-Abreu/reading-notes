@@ -1,4 +1,5 @@
 # ***My Reading Journal for 102***
+# _Growth Mindset_
 My reading notes journal for code fellows 102
 everything is a skill everything can be learned
 you accept there is talent and you also acccpet there is chance for growth

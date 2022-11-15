@@ -1,10 +1,11 @@
 # ***My Reading Journal for 102***
-# _Growth Mindset_
-My reading notes journal for code fellows 102
-everything is a skill everything can be learned
-you accept there is talent and you also acccpet there is chance for growth
+### _Growth Mindset_
+The growth mind set is a way to look at everything as a skill that can be learned.
+You also accept there is talent in this world but you also accept there is oppertunity in growth.
 
-its not the end of the world if i raise my hand and i get it wrong
-there is no shame in asking for help
-Everything can be learned
-see the opertunity in failure
+These are some reminders I use to keep my self in the growth mindset.
+
+*Its not the end of the world if I raise my hand and I get it wrong.
+*there is no shame in asking for help
+*Everything can be learned
+*see the opertunity in failure

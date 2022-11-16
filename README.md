@@ -1,6 +1,11 @@
 # ***My Reading Journal for 102***
+Hola everyone! My name is Bryan Abreu I'm a veteran and the most important things in my life are my family, my dog, and cars. I have 2 beautiful girls and an amazing wife that supports all my crazy ideas. I am into the older Japanese's cars I am restoring one and building a drift car. I'm even starting to design my own wide body kit. I am currently working at Tesla as a collision technician. Computers have always been fun to mess with but I never got serious with it until now. Here is my github and hopefully you see some big improvements though out this course. Love you guys and have a blessed day!
+
+
+
 ### _Growth Mindset_
-The growth mind set is a way to look at everything as a skill that can be learned.
+
+Growth mind to me is a way to look at everything as a skill that can be learned.
 You also accept there is talent in this world but you also accept there is oppertunity in growth.
 
  |*These are some reminders I use to keep my self in the growth mindset.*   |
@@ -9,3 +14,5 @@ You also accept there is talent in this world but you also accept there is opper
  | `There is no shame in asking for help.`                                  |
  |`Everything can be learned.  `                                            |
  | `See the opertunity in failure. `                                        |
+
+Here is a link to my [portfolio](https://github.com/djflights/)

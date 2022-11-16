@@ -15,4 +15,5 @@ You also accept there is talent in this world but you also accept there is opper
  |`Everything can be learned.  `                                            |
  | `See the opertunity in failure. `                                        |
 
-Here is a link to my [portfolio](https://github.com/djflights/)
+Here is a link to my [portfolio](https://github.com/djflights/).
+Enjoy!

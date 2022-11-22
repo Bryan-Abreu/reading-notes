@@ -17,3 +17,14 @@ You also accept there is talent in this world but you also accept there is opper
 
 Here is a link to my [portfolio](https://github.com/djflights/).
 Enjoy!
+
+## Table Of Context!
+
+ * [class notes 01](class1.md)
+ * [class notes 02](class2.md)
+ * [class notes 03](class3.md)
+ * [class notes 04](class4.md)
+ * [class notes 05](class5.md)
+ * [class notes 06](class6.md)
+ * [class notes 07](class7.md)
+ * [class notes 08](class8.md)

@@ -1,5 +1,6 @@
 # Learning Markdowns!
-Markdowns is a basic writing and formatting syntax. There are things such as markdown cheat sheet that have all the markdowns consoloda
+Markdowns is a lightweight markup language for generating html files. There are things such as markdown cheat sheet that have all the markdowns consolidated in one area to guide you effortlessly. But you need to pay attention and check your work as you go! An error can occur with something as simple as a misplacement.
+
 
 |Vocabulary                      |Definition                                                                    |
 | ------------------------------ |:----------------------------------------------------------------------------:|

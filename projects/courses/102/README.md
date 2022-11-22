@@ -20,11 +20,11 @@ Enjoy!
 
 ## Table Of Context!
 
- * [class notes 01](class1.md)
- * [class notes 02](class2.md)
- * [class notes 03](class3.md)
- * [class notes 04](class4.md)
- * [class notes 05](class5.md)
- * [class notes 06](class6.md)
- * [class notes 07](class7.md)
- * [class notes 08](class8.md)
+ * [Class notes 01](class1.md)
+ * [Class notes 02](class2.md)
+ * [Class notes 03](class3.md)
+ * [Class notes 04](class4.md)
+ * [Class notes 05](class5.md)
+ * [Class notes 06](class6.md)
+ * [Class notes 07](class7.md)
+ * [Class notes 08](class8.md)

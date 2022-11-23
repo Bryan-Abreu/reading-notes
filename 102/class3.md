@@ -5,9 +5,15 @@
 * DVCS Distributed Version Control systems takes care of the serious vulnerability of the CVS.
 * Git
   - Snapshots -> Saves version of your project.
-    - Local Operations -> Needed information that can be found in local resources.
-      - Tracking Changes -> Everything is tracked through Git. It is the gatekeeper that dose not want corruption.
-        - Loss of Data -> With Git irreversible damage to files is greatly reduced.  
+  - Local Operations -> Needed information that can be found in local resources.
+  - Tracking Changes -> Everything is tracked through Git. It is the gatekeeper that dose not want corruption.
+  - Loss of Data -> With Git irreversible damage to files is greatly reduced. It is hard for committed snapshot to be lost.
+  
+  - States -> committed, modified and staged
+  - Committed -> Saved
+  - Modified -> file has been changed but not uploaded
+
+
 
 
 ## Terminal Commands For Uploading Your Code

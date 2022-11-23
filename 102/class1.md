@@ -2,7 +2,12 @@
 <p>Markdowns is a lightweight markup language for generating html files. There are things such as markdown cheat sheet that have all the markdowns consolidated in one area to guide you effortlessly. But you need to pay attention and check your work as you go! An error can occur with something as simple as a misplacement. Some of the basic syntax are used for Headings, paragraphs, line breaks, bold letters and even Italics. I am just barley scratching the surface on some syntax you can use.
 </p>
 <p>Git hub uses Markdown everywhere it can even convert your Markdown and publish it. When you have a file that ends in .md it's in a Markdown format.
+
+
 </p>
+
+* Here is a link for [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) so you have a nice reminder. 
+* Here is another link for [Markdowns](https://www.markdownguide.org/cheat-sheet/)
 
 |Vocabulary                      |Definition                                                                    |
 | ------------------------------ |:----------------------------------------------------------------------------:|

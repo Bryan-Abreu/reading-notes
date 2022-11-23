@@ -1,4 +1,7 @@
 # Code 102 Reading Notes!
+These are all the notes of everything I have learned so far.
+
+
 ## Table of Context
 * [Learning Markdowns](./class1.md)
 * [The coder's Computer](./class2.md)

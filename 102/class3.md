@@ -2,14 +2,14 @@
 
 * VCS Version Control is a system that lets you revist different saved file versions.
 * CVCS Centralized Version Control is a system that entails a single server storing all changes and files, that can be reached by clients.
-* DVCS Distributed Version Control systems takes care of the serious vulnerability of the CVS.
+* DVCS Distributed Version Control systems take care of the serious vulnerability of the CVS.
 * Git
   - Snapshots -> Saves version of your project.
   - Local Operations -> Needed information that can be found in local resources.
-  - Tracking Changes -> Everything is tracked through Git. It is the gatekeeper that dose not want corruption.
-  - Loss of Data -> With Git irreversible damage to files is greatly reduced. It is hard for committed snapshot to be lost.
+  - Tracking Changes -> Everything is tracked through Git. It is the gatekeeper that does not want corruption.
+  - Loss of Data -> With Git irreversible damage to files is greatly reduced. It is hard for the committed snapshot to be lost.
   
-  - States -> committed, modified and staged
+  - States -> committed, modified, and staged
   - Committed -> Saved
   - Modified -> file has been changed but not uploaded
 

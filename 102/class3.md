@@ -20,4 +20,4 @@
 * `git add .`                         -> Will get your local changes ready to commit
 * `git commit -m "commit message"`    -> saves a snapshot of your code for git
 * `git push origin main`              -> push your code changes up to github
-* `git status`                        -> if you see files in red, they are not staged. you need to do aall the steps above.
+* `git status`                        -> if you see files in red, they are not staged. you need to do all the steps above.

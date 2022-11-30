@@ -1,5 +1,9 @@
 # The Coder's Computer
-
-* Here is a link to a [command](https://www.git-tower.com/blog/command-line-cheat-sheet/) line cheat sheet.
-
 ## Terminal Command List
+- everything is a file
+- Linux is an extensionless System
+-Linux is case sensitive
+- space in names
+- There are hidden files
+- These are the basic markdown list that helped me navigate my terminal
+- ![MARKDOWN!!](./markdown.jpg)
